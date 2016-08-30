@@ -1,3 +1,4 @@
 28182. feat: create admin dashboard #28182
 39414. refactor: organize models into subfolders #39414
 78258. fix: handle 500 error in quiz API #78258
+27934. feat: add user authentication #27934
