@@ -3,3 +3,4 @@
 78258. fix: handle 500 error in quiz API #78258
 27934. feat: add user authentication #27934
 32591. test: add integration test for /submit endpoint #32591
+25394. test: add unit test for quiz service #25394
