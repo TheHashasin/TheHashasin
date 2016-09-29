@@ -4,3 +4,4 @@
 27934. feat: add user authentication #27934
 32591. test: add integration test for /submit endpoint #32591
 25394. test: add unit test for quiz service #25394
+34817. refactor: clean up auth middleware #34817
