@@ -8,3 +8,4 @@
 96759. feat: add export to CSV option #96759
 3252. style: reformat files with black #3252
 28059. refactor: split large controller into smaller functions #28059
+27946. test: increase coverage on auth module #27946
