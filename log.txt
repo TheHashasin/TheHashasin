@@ -9,3 +9,4 @@
 3252. style: reformat files with black #3252
 28059. refactor: split large controller into smaller functions #28059
 27946. test: increase coverage on auth module #27946
+31218. perf: optimize database query for quiz results #31218
