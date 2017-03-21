@@ -16,3 +16,4 @@
 88659. feat: support email verification #88659
 7306. docs: add API usage examples #7306
 37962. feat: create admin dashboard #37962
+53875. feat: enable dark mode toggle #53875
