@@ -19,3 +19,4 @@
 53875. feat: enable dark mode toggle #53875
 86533. style: apply consistent indentation #86533
 89126. style: standardize quote style #89126
+65872. docs: document token refresh logic #65872
