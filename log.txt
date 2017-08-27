@@ -25,3 +25,4 @@
 83541. feat: implement quiz timer feature #83541
 22889. docs: add API usage examples #22889
 98414. docs: add API usage examples #98414
+94161. test: test user registration edge cases #94161
