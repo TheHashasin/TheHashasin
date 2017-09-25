@@ -26,3 +26,4 @@
 22889. docs: add API usage examples #22889
 98414. docs: add API usage examples #98414
 94161. test: test user registration edge cases #94161
+21258. chore: rename env.example #21258
