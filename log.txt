@@ -33,3 +33,4 @@
 48224. feat: create admin dashboard #48224
 81362. fix: resolve issue with date parsing #81362
 86110. feat: add export to CSV option #86110
+26766. chore: rename env.example #26766
