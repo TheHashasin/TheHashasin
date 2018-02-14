@@ -35,3 +35,4 @@
 86110. feat: add export to CSV option #86110
 26766. chore: rename env.example #26766
 67162. test: test user registration edge cases #67162
+48932. refactor: remove redundant code blocks #48932
