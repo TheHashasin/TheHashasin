@@ -36,3 +36,4 @@
 26766. chore: rename env.example #26766
 67162. test: test user registration edge cases #67162
 48932. refactor: remove redundant code blocks #48932
+64366. feat: implement quiz timer feature #64366
