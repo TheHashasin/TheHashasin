@@ -38,3 +38,4 @@
 48932. refactor: remove redundant code blocks #48932
 64366. feat: implement quiz timer feature #64366
 18590. test: mock database connection in test suite #18590
+63969. refactor: refactor quiz grading logic #63969
