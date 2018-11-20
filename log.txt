@@ -46,3 +46,4 @@
 15901. perf: optimize database query for quiz results #15901
 80881. feat: implement quiz timer feature #80881
 28958. test: add unit test for quiz service #28958
+11449. fix: resolve issue with date parsing #11449
