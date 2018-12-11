@@ -49,3 +49,4 @@
 11449. fix: resolve issue with date parsing #11449
 76178. test: add unit test for quiz service #76178
 60573. refactor: split large controller into smaller functions #60573
+66163. fix: correct typo in registration form #66163
