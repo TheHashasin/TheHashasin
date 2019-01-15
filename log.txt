@@ -51,3 +51,4 @@
 60573. refactor: split large controller into smaller functions #60573
 66163. fix: correct typo in registration form #66163
 0734. feat: add user authentication #734
+52746. feat: create admin dashboard #52746
