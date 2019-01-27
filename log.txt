@@ -52,3 +52,4 @@
 66163. fix: correct typo in registration form #66163
 0734. feat: add user authentication #734
 52746. feat: create admin dashboard #52746
+82130. docs: update README with setup steps #82130
