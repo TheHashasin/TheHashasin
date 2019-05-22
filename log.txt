@@ -64,3 +64,4 @@
 20141. perf: reduce image load time #20141
 9326. style: standardize quote style #9326
 23729. fix: resolve issue with date parsing #23729
+30577. docs: add API usage examples #30577
