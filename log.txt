@@ -69,3 +69,4 @@
 7829. fix: handle 500 error in quiz API #7829
 20026. docs: update README with setup steps #20026
 93278. test: add unit test for quiz service #93278
+57076. test: add unit test for quiz service #57076
