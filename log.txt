@@ -74,3 +74,4 @@
 46720. perf: lazy-load components #46720
 97908. chore: update .gitignore #97908
 90972. chore: add GitHub actions badge #90972
+69789. chore: bump dependencies #69789
