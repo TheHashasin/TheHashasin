@@ -75,3 +75,4 @@
 97908. chore: update .gitignore #97908
 90972. chore: add GitHub actions badge #90972
 69789. chore: bump dependencies #69789
+94004. style: remove trailing whitespace #94004
