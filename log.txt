@@ -78,3 +78,4 @@
 94004. style: remove trailing whitespace #94004
 0286. docs: improve code comments in utils #286
 99701. feat: support email verification #99701
+21071. docs: write FAQ section #21071
