@@ -81,3 +81,4 @@
 21071. docs: write FAQ section #21071
 80412. refactor: refactor quiz grading logic #80412
 19832. fix: resolve issue with date parsing #19832
+27021. chore: add GitHub actions badge #27021
