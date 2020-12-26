@@ -95,3 +95,4 @@
 2769. refactor: refactor quiz grading logic #2769
 77384. refactor: split large controller into smaller functions #77384
 79639. refactor: refactor quiz grading logic #79639
+17573. style: reformat files with black #17573
