@@ -97,3 +97,4 @@
 79639. refactor: refactor quiz grading logic #79639
 17573. style: reformat files with black #17573
 22099. refactor: refactor quiz grading logic #22099
+14189. fix: fix null pointer exception on login #14189
