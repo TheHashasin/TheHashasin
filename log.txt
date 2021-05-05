@@ -101,3 +101,4 @@
 21654. perf: reduce image load time #21654
 63458. fix: fix broken CSS in mobile view #63458
 31357. test: add integration test for /submit endpoint #31357
+0718. perf: cache repeated calculations #718
