@@ -106,3 +106,4 @@
 34360. feat: add export to CSV option #34360
 27602. fix: resolve issue with date parsing #27602
 61457. style: standardize quote style #61457
+0627. refactor: clean up auth middleware #627
