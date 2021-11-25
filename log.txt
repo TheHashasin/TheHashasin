@@ -112,3 +112,4 @@
 53833. feat: create admin dashboard #53833
 78664. test: mock database connection in test suite #78664
 44641. test: test user registration edge cases #44641
+8868. perf: optimize database query for quiz results #8868
