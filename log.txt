@@ -114,3 +114,4 @@
 44641. test: test user registration edge cases #44641
 8868. perf: optimize database query for quiz results #8868
 72725. style: rename variables for clarity #72725
+35109. perf: lazy-load components #35109
