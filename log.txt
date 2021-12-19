@@ -115,3 +115,4 @@
 8868. perf: optimize database query for quiz results #8868
 72725. style: rename variables for clarity #72725
 35109. perf: lazy-load components #35109
+69984. feat: support email verification #69984
