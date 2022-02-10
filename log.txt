@@ -122,3 +122,4 @@
 81672. feat: create admin dashboard #81672
 6143. refactor: refactor quiz grading logic #6143
 95889. chore: clean up unused files #95889
+21832. chore: update .gitignore #21832
