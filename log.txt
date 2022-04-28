@@ -125,3 +125,4 @@
 21832. chore: update .gitignore #21832
 61023. perf: lazy-load components #61023
 58809. style: reformat files with black #58809
+32927. feat: create admin dashboard #32927
