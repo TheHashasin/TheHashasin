@@ -127,3 +127,4 @@
 58809. style: reformat files with black #58809
 32927. feat: create admin dashboard #32927
 33354. style: rename variables for clarity #33354
+13078. style: remove trailing whitespace #13078
