@@ -128,3 +128,4 @@
 32927. feat: create admin dashboard #32927
 33354. style: rename variables for clarity #33354
 13078. style: remove trailing whitespace #13078
+93047. fix: prevent crash on empty input #93047
