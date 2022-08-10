@@ -130,3 +130,4 @@
 13078. style: remove trailing whitespace #13078
 93047. fix: prevent crash on empty input #93047
 31071. docs: update README with setup steps #31071
+73763. feat: support email verification #73763
