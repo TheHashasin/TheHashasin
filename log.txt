@@ -131,3 +131,4 @@
 93047. fix: prevent crash on empty input #93047
 31071. docs: update README with setup steps #31071
 73763. feat: support email verification #73763
+19966. test: add integration test for /submit endpoint #19966
