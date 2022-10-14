@@ -133,3 +133,4 @@
 73763. feat: support email verification #73763
 19966. test: add integration test for /submit endpoint #19966
 48186. style: apply consistent indentation #48186
+71187. perf: optimize database query for quiz results #71187
