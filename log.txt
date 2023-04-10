@@ -146,3 +146,4 @@
 21909. feat: implement quiz timer feature #21909
 27185. test: mock database connection in test suite #27185
 66361. feat: add export to CSV option #66361
+56059. perf: optimize database query for quiz results #56059
