@@ -153,3 +153,4 @@
 3708. feat: implement quiz timer feature #3708
 4903. feat: enable dark mode toggle #4903
 34250. style: rename variables for clarity #34250
+64814. docs: write FAQ section #64814
