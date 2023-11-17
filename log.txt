@@ -157,3 +157,4 @@
 9039. feat: create admin dashboard #9039
 64750. feat: support email verification #64750
 51830. test: add integration test for /submit endpoint #51830
+68060. chore: bump dependencies #68060
