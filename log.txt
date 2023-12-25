@@ -159,3 +159,4 @@
 51830. test: add integration test for /submit endpoint #51830
 68060. chore: bump dependencies #68060
 10703. test: test user registration edge cases #10703
+65675. perf: lazy-load components #65675
