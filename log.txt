@@ -172,3 +172,4 @@
 89135. test: mock database connection in test suite #89135
 88591. chore: rename env.example #88591
 86647. test: increase coverage on auth module #86647
+97712. docs: write FAQ section #97712
