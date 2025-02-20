@@ -188,3 +188,4 @@
 2719. feat: implement quiz timer feature #2719
 33475. perf: cache repeated calculations #33475
 24771. docs: clarify environment setup #24771
+25968. feat: support email verification #25968
